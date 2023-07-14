@@ -1,0 +1,42 @@
+.image {
+    width: 200px;
+    height: 95%;
+    background-image: url(../../img/bg-sidebar-desktop.svg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center, center;
+    margin: 10px 0 0 10px;
+    border-radius: 10px;
+    padding-top: 20px;
+    
+}
+
+.info_flex {
+    display: flex;
+    margin: 17px;
+}
+
+.info_flex p {
+   font-size: 10px;
+   color: white;
+
+}
+
+.info_flex h3 {
+    font-size: 11px;
+    color: white;
+ 
+ }
+
+.box {
+    width: 25px;
+    height: 25px;
+    border: 1px solid rgb(255, 248, 248);
+    border-radius: 50%;
+    text-align: center;
+    padding: 3px;
+    margin-right: 10px;
+    color: white;
+    font-size: 13px;
+}
+

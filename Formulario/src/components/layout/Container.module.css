@@ -1,0 +1,8 @@
+.container {
+    width: 700px;
+    height: 420px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    margin-bottom: 50px;
+    display: flex;
+}
